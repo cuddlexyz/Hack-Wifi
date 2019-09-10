@@ -10,7 +10,6 @@ echo
 echo $cy"   ╔═══════════╗"
 echo $cy" ╔═╝███████████╚═╗"
 echo $cy"╔╝███████████████╚╗"
-echo $cy"║█████████████████║"
 echo $cy"║█████████████████║	SELAMAT ANDA TERTIPY"
 echo $cy"║█████████████████║	2019 KOK GRATISAN :V"
 echo $cy"║█╔█████████████╗█║	MODAL DIKIT EA"
