@@ -1,4 +1,4 @@
-# Hack-Wifi
+# Hack-Wifi easily
 WPA2 PSK No Root
 # Cara Pakai
 # $ pkg update && pkg upgrade
